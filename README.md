@@ -61,5 +61,5 @@
 
 ## # education
 
-- **2023 — 2027** · **ESIEA** — Bachelor degree, Cybersecurity major
+- **2023 — 2027** · **Epita** — Bachelor degree, Cybersecurity major
 - **2025 — 2025** · **KMUTT** — Exchange (Cybersecurity · ML)
