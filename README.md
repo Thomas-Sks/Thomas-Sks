@@ -5,7 +5,7 @@
 <!-- Profile README – Thomas Letellier -->
 <h1 align="center">&gt; Thomas Letellier</h1>
 <p align="center">
-  Tech Lead @ <strong><a href="https://nerionsoft.com">NerionSoft</a></strong><br/>
+  Fullstack  @ <strong><a href="https://nerionsoft.com">NerionSoft</a></strong><br/>
   <em>Cybersecurity student · Epita</em>
 </p>
 
